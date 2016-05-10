@@ -1,0 +1,148 @@
+P4-3A 
+(a)	WOODS COMPANY, INC.
+	Income Statement
+	For the Year Ended December 31, 2008
+		
+
+	Revenues
+		Service revenue			$44,000	
+	Expenses
+		Salaries expense		$35,200
+		Repair expense		5,400	
+		Utilities expense		4,000	
+		Depreciation expense		2,800	
+		Insurance expense		    1,200	
+			Total expenses			  48,600	
+	Net loss			$ (4,600	)
+
+
+	WOODS COMPANY, INC.
+	Retained Earnings Statement
+	For the Year Ended December 31, 2008
+		
+
+	Retained Earnings, January 1			$14,000
+	Less:  Net loss		$4,600	
+		Dividends		  7,200	  11,800
+	Retained Earnings, December 31			$  2,200
+
+
+	WOODS COMPANY, INC.
+	Balance Sheet
+	December 31, 2008
+		
+
+	Assets
+	Current assets
+		Cash		$ 8,200
+		Accounts receivable		7,500
+		Prepaid insurance		   1,800
+			Total current assets			$17,500
+	Property, plant, and equipment
+		Equipment		28,000	
+		Less:  Accumulated depreciation		    8,600	  19,400
+			Total assets			$36,900
+
+	
+
+
+
+
+WOODS COMPANY, INC.
+	Balance Sheet (Continued)
+	December 31, 2008
+		
+
+	Liabilities and Stockholders’ Equity
+	Current liabilities
+		Accounts payable		$11,700
+		Salaries payable		    3,000
+			Total current liabilities			$14,700
+	Stockholders’ equity
+		Common stock		20,000
+		Retained earnings		    2,200
+			Total stockholders’ equity			  22,200
+			Total liabilities and stockholders’ equity			$36,900
+
+
+(b)	
+	General Journal
+DateAccount TitlesRef.DebitCreditDec.	 31Service Revenue	
+	Income Summary	400
+35044,000
+44,00031Income Summary	 
+	Repair Expense	
+	Depreciation Expense	
+	Insurance Expense	
+	Salaries Expense	
+	Utilities Expense	350
+622
+711
+722
+726
+73248,600
+5,400
+2,800
+1,200
+35,200
+4,00031Retained Earnings	
+	Income Summary	320
+3504,600
+4,60031Retained Earnings	
+	Dividends	320
+3327,200
+7,200
+
+
+
+
+
+
+
+(c)
+	Retained Earnings	No. 32012/31	4,600  12/31 Bal.	14,00012/31	7,200  12/31 Bal.	2,200
+
+	Dividends	No. 33212/31 Bal.	7,200  12/31	7,200
+
+	Income Summary	No. 35012/31	48,600  12/31	44,000 12/31	4,600	48,600 	48,600
+
+	Service Revenue	No. 40012/31	44,000  12/31 Bal.	44,000
+	Repair Expense	No. 62212/31 Bal.	5,400  12/31	5,400
+
+	Depreciation Expense	No. 71112/31 Bal.	2,800  12/31	2,800
+
+	Insurance Expense	No. 72212/31 Bal.	1,200  12/31	1,200
+
+	Salaries Expense	No. 72612/31 Bal.	35,200  12/31	35,200
+
+	Utilities Expense	No. 73212/31 Bal.	4,000  12/31	4,000
+
+
+
+
+(d)	WOODS COMPANY INC.
+	Post-Closing Trial Balance
+	December 31, 2008
+		
+
+DebitCredit	Cash		$  8,200
+	Accounts Receivable		7,500
+	Prepaid Insurance		1,800
+	Equipment		28,000
+	Accumulated Depreciation			$  8,600
+	Accounts Payable			11,700
+	Salaries Payable			3,000
+	Common Stock			20,000
+	Retained Earnings		             	    2,200
+		Totals	$45,500	$45,500
+
+
+
+
+
+		
+4-42	© 2008???For Instructor Use Only 
+
+		
+© 2008???For Instructor Use Only 	4-1
+
